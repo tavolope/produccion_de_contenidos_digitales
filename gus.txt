@@ -1,8 +1,4 @@
 tengo sueño 
 soy negro 
 me gusta el gym
-nombre: gustavo adolfo lòpez estrada
-grado: 5to baco
-comida fav: pollo en crema 
-edad: 17
-genero de musica fav: bachata 
+nombre : gustavo adolfo lòpez estrada 
