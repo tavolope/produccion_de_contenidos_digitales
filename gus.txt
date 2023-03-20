@@ -2,3 +2,5 @@ tengo sueño
 soy negro 
 me gusta el gym
 nombre : gustavo adolfo lòpez estrada 
+grado: 5to compu 
+edad: 17
