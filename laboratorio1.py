@@ -16,3 +16,5 @@ print (division)
 print ("hola")
 
 print ("(⊙_⊙;)")
+
+print ("༼ つ ◕_◕ ༽つ")
